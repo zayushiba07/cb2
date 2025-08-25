@@ -1,1 +1,1 @@
-colu
+int subject[choice];  

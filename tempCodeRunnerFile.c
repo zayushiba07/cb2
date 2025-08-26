@@ -1,1 +1,1 @@
-int subject[choice];  
+ 
